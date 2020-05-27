@@ -1,0 +1,40 @@
+#panel {
+    background-color: #ffffff;
+    padding: 0px;
+}
+
+#loginbtn {
+    float: right;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    background-color: #3f51b5 !important;
+    font-weight: 500;
+}
+
+#title {
+    background-color: #3f51b5 !important;
+    color: #ffffff;
+    padding: 8px;
+    margin-top: 0px;
+    font-weight: 700;
+    text-align: center;
+}
+
+form {
+    padding: 0px;
+    border-radius: 3px;
+    box-sizing: border-box;
+    margin: 0px 20px 0px 20px;
+}
+
+form .row{
+    margin-bottom: 0px;
+}
+
+.error {
+    color: red;
+}
+
+.indeterminate {
+    background-color: #3f51b5 !important;;
+}
